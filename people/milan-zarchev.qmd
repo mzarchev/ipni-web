@@ -1,5 +1,40 @@
 ---
 title: "Milan Zarchev"
+subtitle: "Postdoctoral Fellow"
+image: "../images/people/milan-zarchev.png"
+about:
+  template: trestles
+  image-width: 15em
+  image-shape: round
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:m.zarchev@erasmusmc.nl
+    - icon: bluesky
+      text: Bluesky
+      href: https://bsky.app/profile/mzarchev.bsky.social
+    - icon: github
+      text: GitHub
+      href: https://github.com/mzarchev
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/milan-zarchev
 ---
 
-Biography, research interests, and publications go here...
+## Biography
+
+Dr. Zarchev is a Postdoctoral Fellow in the Integrative and Precision Neuroimaging (IPNI) Lab. He is passionate about studying early life stress and childhood trauma from an epidemiological perspective, and particularly about finding ways to apply causal inference methods to those difficult to study events.
+
+He completed his PhD at the Erasmus MC, Department of Psychiatry, focusing on life adversity and developmental outcomes. 
+
+## Education
+
+-   **Ph.D. in Psychiatric Epidemiology\]** \| Erasmus MC University Medical Center \| 2025
+-   **M.Sc. in Health Science\]** \| Erasmus MC University Medical Center \| 2022
+-   **B.Sc. in Psychology** \| University of Strathclyde, Glasgow \| 2020
+
+## Research Interests
+
+-   Early life stress
+-   Mental health
+-   The Wire
